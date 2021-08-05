@@ -40,3 +40,8 @@ Here are some ideas to get you started:
 [website]: http://www.google.com
 [instagram]: https://www.instagram.com/aymen_maz/
 [linkedin]: https://www.linkedin.com/in/aymen-mazlout
+
+
+<br />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aymenMaz001&show_icons=true)
+)](https://github.com/anuraghazra/github-readme-stats)
