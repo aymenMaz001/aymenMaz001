@@ -42,6 +42,13 @@ Here are some ideas to get you started:
 ### Repo Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aymenMaz001&show_icons=true)
 
+
+<br />
+
+### Most used languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aymenMaz001&layout=compact)
+
 [website]: http://www.google.com
 [instagram]: https://www.instagram.com/aymen_maz/
 [linkedin]: https://www.linkedin.com/in/aymen-mazlout
