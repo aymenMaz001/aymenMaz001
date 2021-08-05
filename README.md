@@ -37,10 +37,14 @@ Here are some ideas to get you started:
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
+<br />
+
+### Repo Stats:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aymenMaz001&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [website]: http://www.google.com
 [instagram]: https://www.instagram.com/aymen_maz/
 [linkedin]: https://www.linkedin.com/in/aymen-mazlout
 
 
-<br />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aymenMaz001&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
