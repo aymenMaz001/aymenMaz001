@@ -6,10 +6,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a loan management system
-- 🌱 I’m currently learning CI/CD & vanilla javascript
-- 👯 I’m looking to collaborate with Angular & .Net Core experts
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🔭 I’m currently working on a artists' subsidies system
+- 🌱 I’m currently learning CI/CD & react.
+- 👯 I’m looking to collaborate with react & .Net Core experts
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I can code for 30 minutes witout coffee
 
 ### Connect with me:
